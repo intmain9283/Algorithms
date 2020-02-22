@@ -6,7 +6,7 @@ package Sorting;
 
 /**
  * The class where all my sorting algorithms are stored
- * @author Vincent Mann v_mann92@yahoo.com
+ * @author Vincent D. Mann v_mann92@yahoo.com
  * @version 1.0
  */
 public class Sorting {
